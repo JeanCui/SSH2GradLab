@@ -1,4 +1,4 @@
-ssh to grad lab machine
+ssh to grad lab machine automatically
 
 Usage:
 ./sshgrad.sh param1
